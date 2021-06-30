@@ -1,0 +1,24 @@
+.card{
+    border-radius: 5px;
+}
+
+.daftar{
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #0072ff, #8811c5);
+}
+
+.title{
+    color:#fff;
+    padding: 50px 150px;
+}
+
+.form-content{
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+
+.form-control{
+    border-radius: 1.5rem;
+}
+
